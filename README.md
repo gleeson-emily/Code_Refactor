@@ -6,3 +6,4 @@ This is a code refactor. I modified the CSS file provided to me by consolidating
 
 ![Screenshot](./horiseon-screenshot.png)
 
+Link to deployed project: https://gleeson-emily.github.io/Code_Refactor/
